@@ -4,7 +4,7 @@ FILE_NAME = "#{CLASS_NAME}.java"
 
 ARRAY_NAME = "IMAGES_ARRAY"
 
-OUTPUT_DIR_PATH = "C:/Users/s.szachowalow/workspace/TestContactsCreator/src/mypackage"
+OUTPUT_DIR_PATH = ""
 OUTPUT_FILE_PATH = OUTPUT_DIR_PATH + '/' + FILE_NAME 
 
 FILES_DIR_NAME = "avatars"
