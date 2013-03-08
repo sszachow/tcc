@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="TestContactsCreator">
+		<name >
+			Test Contacts Creator
+		</name>
+		<description >
+			Simple application for creating dummy contacts
+		</description>
+		<version >
+			0.1
+		</version>
+		<vendor >
+			sszachow
+		</vendor>
+		<copyright >
+			Copyright (c) 2013 sszachow
+		</copyright>
+		<fileset Java="1.55" _blackberryVersion="[6.0.0)">
+			<directory >
+				6.0.0
+			</directory>
+			<files >
+				TestContactsCreator.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
